@@ -3,9 +3,9 @@
 
 # 两种策略净值表现
 指数估值
-![](https://github.com/chengy6324/Smart_Beta_FOF/tree/master/image/im8.png)
+![image](https://github.com/chengy6324/Smart_Beta_FOF/tree/master/image/im8.png)
 指数动量
-![](https://github.com/chengy6324/Smart_Beta_FOF/tree/master/image/im12.png)
+![image](https://github.com/chengy6324/Smart_Beta_FOF/tree/master/image/im12.png)
 
 # 参考论文
 Arnott R D, Beck N, Kalesnik V. Timing 'Smart Beta' Strategies? Of Course! Buy Low, Sell High![J]. Of Course, 2016.
