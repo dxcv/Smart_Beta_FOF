@@ -1,7 +1,7 @@
 # Smart_Beta_FOF
 一个基于指数估值及指数动量的Smart Beta指数配置策略回测项目
 
-# 两种策略回测净值
+# 两种策略净值表现
 指数估值
 ![image](https://github.com/chengy6324/Smart_Beta_FOF/tree/master/image/im8.png)
 指数动量
